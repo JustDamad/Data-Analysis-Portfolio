@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Damilola Aderemilekun Adegboye  
-**Aspiring Data Analyst | Turning raw data into clear insights**
+**Data Analyst | Turning raw data into clear insights**
 
 I recently started my journey into the world of Data Analytics — and every project I complete makes me more excited for the future! I love uncovering stories hidden in data and presenting them in simple, visual, and meaningful ways.
 
