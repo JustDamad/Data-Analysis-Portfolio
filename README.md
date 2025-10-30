@@ -18,20 +18,21 @@ I recently started my journey into the world of Data Analytics — and every pro
 ✔ Cleaned and explored retail product data  
 ✔ Analyzed key metrics like revenue & profit by product and country  
 ✔ Used Pandas operations such as `value_counts`, `groupby`, and `.isnull()`  
-📎 Notebook: *
-- [Product Data Analysis](https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/Data-Analytics-Portfolio.ipynb) 
-- [GAPMINDER LIFE EXPECTANCY DATA](https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/GAPMINDER%20LIFE%20EXPECTANCY%20DATA.ipynb)*  
+📎 Notebook: 
+- [Product Data Analysis](https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/Data-Analytics-Portfolio.ipynb)
 
 #### 📈 Product Profit Visualization  
 ✔ Compared profit distribution using bar and line charts  
 ✔ Created professional visualizations using Matplotlib  
-📎 Notebook: *(Add file link here)*  
+📎 Notebook: 
+- [PRODUCT PROFIT VISUALIZATION](https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/PRODUCT%20PROFIT%20VISUALIZATION.ipynb) 
 
 #### 🌍 Gapminder Life Expectancy Analysis  
 ✔ Analyzed global life expectancy trends  
 ✔ Compared countries including Nigeria, India & Ghana  
 ✔ Used Seaborn `lineplot` and Plotly Express `scatter`  
-📎 Notebook: *(Add file link here)*  
+📎 Notebook:
+- [GAPMINDER LIFE EXPECTANCY DATA](https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/GAPMINDER%20LIFE%20EXPECTANCY%20DATA.ipynb) 
 
 ---
 
