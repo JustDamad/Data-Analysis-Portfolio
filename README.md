@@ -18,7 +18,9 @@ I recently started my journey into the world of Data Analytics — and every pro
 ✔ Cleaned and explored retail product data  
 ✔ Analyzed key metrics like revenue & profit by product and country  
 ✔ Used Pandas operations such as `value_counts`, `groupby`, and `.isnull()`  
-📎 Notebook: * - [Product Data Analysis](https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/Data-Analytics-Portfolio.ipynb) *  
+📎 Notebook: *
+- [Product Data Analysis](https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/Data-Analytics-Portfolio.ipynb) 
+- [GAPMINDER LIFE EXPECTANCY DATA](https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/GAPMINDER%20LIFE%20EXPECTANCY%20DATA.ipynb)*  
 
 #### 📈 Product Profit Visualization  
 ✔ Compared profit distribution using bar and line charts  
