@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Damilola Aderemilekun Adegboye  
 **Data Analyst | Turning raw data into clear insights**
 
-I recently started my journey into the world of Data Analytics — and every project I complete makes me more excited for the future! I love uncovering stories hidden in data and presenting them in simple, visual, and meaningful ways.
+I recently started my journey into the world of Data Analytics and every project I complete makes me more excited for the future! I love uncovering stories hidden in data and presenting them in simple, visual, and meaningful ways.
 
 ---
 
@@ -37,7 +37,7 @@ I recently started my journey into the world of Data Analytics — and every pro
 ---
 
 ### 🎯 Career Goal  
-To secure my **first Data Analyst role** and continue growing my skills in a tech-driven environment — locally and internationally.
+To secure my **first Data Analyst role** and continue growing my skills in a tech-driven environment (locally and internationally).
 
 ---
 
