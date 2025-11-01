@@ -1,7 +1,9 @@
-# 👋 Hi, I’m Damilola Aderemilekun Adegboye  
-**Data Analyst | Turning raw data into clear insights**
+# 👋 Hi, I’m Damilola Aderemilekun Adegboye
 
-I recently started my journey into the world of Data Analytics and every project I complete makes me more excited for the future! I love uncovering stories hidden in data and presenting them in simple, visual, and meaningful ways.
+Data Analyst | Mathematics Graduate | Insight-Driven Problem Solver
+
+I transform raw data into clear, actionable insights using analytical thinking and clean visual storytelling.
+Currently building real-world portfolio projects using Python, Pandas, Seaborn, Matplotlib & Plotly while preparing for my first Data Analyst role in a growth-focused organization
 
 ---
 
@@ -9,22 +11,19 @@ I recently started my journey into the world of Data Analytics and every project
 - Python (Pandas, Matplotlib, Seaborn, Plotly Express)
 - Jupyter Notebook
 - Data cleaning, analysis & visualization
+- (SQL & Power BI coming soon 🔜)
 
 ---
 
 ### 📊 My Data Analytics Projects
 
-1️⃣ Product Data Exploration using Python & Pandas
+1️⃣ Product Data Exploration (Python & Pandas)
 
-📌 Explored product sales dataset and analyzed key business indicators
+✔ Data cleaning, structure review, missing values
 
-✔ Checked data structure & missing values
+✔ Revenue & product performance analysis
 
-✔ Aggregated revenue by product & country
-
-✔ Identified top-performing products
-
-✔ Used Pandas for data manipulation and summary insights
+✔ Used Pandas groupby & descriptive analytics
 
 
 🔗 View Project:
@@ -34,26 +33,26 @@ https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/Data-Analytics-Po
 
 2️⃣ Product Profit Visualization (Matplotlib & Seaborn)
 
-📌 Visualized business performance across product categories
+✔ Revenue & profit comparison by category
 
-✔ Revenue & Profit comparison
+✔ Highlighted highest performing product line
 
-✔ Highlighted highest performing category
+✔ Clean business-focused visualization
 
-✔ Clear chart labeling for business decision-making
 
 🔗 View Project:
 https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/PRODUCT%20PROFIT%20VISUALIZATION.ipynb
 
 ⸻
 
-3️⃣ Gapminder Life Expectancy Analysis
+3️⃣ Gapminder Life Expectancy Analysis (Seaborn & Plotly)
 
-📌 Global life expectancy trends across multiple decades
+✔ Analyzed progress in life expectancy
 
-✔ Compared Nigeria, India & Ghana using Seaborn & Plotly
+✔ Compared Nigeria, India & Ghana
 
-✔ Line & scatter plots for deeper insight
+✔ Scatter & line trend visualization
+
 
 🔗 View Project:
 https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/GAPMINDER%20LIFE%20EXPECTANCY%20DATA.ipynb
@@ -62,26 +61,33 @@ https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/GAPMINDER%20LIFE%
 
 4️⃣ Africa Life Expectancy Heatmap (1952–2007)
 
-📌 Data storytelling with heatmap visualization
+✔ Health outcome improvements across Africa
 
-✔ Revealed improvement in African health outcomes
+✔ Regional inequality visualized using heatmap
 
-✔ Exposed inequality gaps across regions
-
+✔ Strong storytelling with long-term data
 
 🔗 View Project:
 https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/Africa_Life_Expectancy_Visualization.ipynb
----
-
-### 🎯 Career Goal  
-To secure my **first Data Analyst role** and continue growing my skills in a tech-driven environment (locally and internationally).
 
 ---
 
-### 📬 Let’s Connect
-LinkedIn: *(https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BclMHJXJqS3SUNSaForIt1Q%3D%3D)*  
+### 
+🎯 Career Goal
 
-GitHub: [github.com/JustDamad](https://github.com/JustDamad/)  
+To secure my first Data Analyst role and continue growing in a tech-driven environment  (locally or internationally).
+
+---
+
+### 📬 Contact
+
+📧 dharmmyadegboye@outlook.com
+
+🔗 LinkedIn: www.linkedin.com/in/damilola-adegboye-957567390
+
+🔗 GitHub: https://github.com/JustDamad
+
+📍 Based in Nigeria — open to remote & international opportunities
 
 ---
 
