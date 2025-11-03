@@ -72,7 +72,26 @@ https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/Africa_Life_Expec
 
 ---
 
+### 🔹 FinTech Transactions Analysis & Interactive Dashboard (2022–2024)
+
+**Tools:** Python, Pandas, Matplotlib, Seaborn, Plotly  
+**Dataset:** African FinTech transactions(success vs failure, channel adoption, monthly trends)
+
+**Key Insights:**
+- Nigeria &  South Africa drive the majority of revenue and transaction volume
+- 📱 USSD remains the top-performing transaction channel across countries
+- ✅ Success rate is high — only ~8% failed transactions overall
+- 📈 Monthly revenue trends show consistent growth and digital payment adoption
+- 📊 Interactive dashboards improve stakeholder understanding and decision-making
+
+🔗 Open the Notebook  
+https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/FinTech%20Transactions%20Analysis%20%26%20Interactive%20Dashboard(2022%20-%202024).ipynb
+
 ### 
+
+---
+
+
 🎯 Career Goal
 
 To secure my first Data Analyst role and continue growing in a tech-driven environment  (locally or internationally).
