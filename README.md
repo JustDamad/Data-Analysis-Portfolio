@@ -17,77 +17,75 @@ Currently building real-world portfolio projects using Python, Pandas, Seaborn, 
 
 ### 📊 My Data Analytics Projects
 
-1️⃣ Product Data Exploration (Python & Pandas)
 
-✔ Data cleaning, structure review, missing values
-
-✔ Revenue & product performance analysis
-
-✔ Used Pandas groupby & descriptive analytics
+📊 Data Analytics Portfolio — 5 Projects
 
 
-🔗 View Project:
-https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/Data-Analytics-Portfolio.ipynb
+✅ 1️⃣ Product Data Exploration
+
+
+🔗 https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/Data-Analytics-Portfolio.ipynb
+
+✔ Data cleaning & exploration using Pandas
+
+✔ Revenue, product counts, missing data insights
+
 
 ⸻
 
-2️⃣ Product Profit Visualization (Matplotlib & Seaborn)
-
-✔ Revenue & profit comparison by category
-
-✔ Highlighted highest performing product line
-
-✔ Clean business-focused visualization
+✅ 2️⃣ Product Profit Visualization
 
 
-🔗 View Project:
-https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/PRODUCT%20PROFIT%20VISUALIZATION.ipynb
+🔗 https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/PRODUCT%20PROFIT%20VISUALIZATION.ipynb
+
+✔ Highest vs lowest profit by country
+
+✔ Bar charts using Matplotlib
+
 
 ⸻
 
-3️⃣ Gapminder Life Expectancy Analysis (Seaborn & Plotly)
-
-✔ Analyzed progress in life expectancy
-
-✔ Compared Nigeria, India & Ghana
-
-✔ Scatter & line trend visualization
+✅ 3️⃣ Global Life Expectancy Analysis — Gapminder
 
 
-🔗 View Project:
-https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/GAPMINDER%20LIFE%20EXPECTANCY%20DATA.ipynb
+🔗 https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/GAPMINDER%20LIFE%20EXPECTANCY%20DATA.ipynb
+
+✔ Country comparison: Nigeria, Ghana & India
+
+✔ Seaborn + Plotly multi-line trend visualization
+
 
 ⸻
 
-4️⃣ Africa Life Expectancy Heatmap (1952–2007)
+✅ 4️⃣ Africa Life Expectancy Heatmap (1952–2007)
 
-✔ Health outcome improvements across Africa
 
-✔ Regional inequality visualized using heatmap
+🔗 https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/Africa_Life_Expectancy_Visualization.ipynb
 
-✔ Strong storytelling with long-term data
+✔ Heatmap showing health progress & inequality trends
 
-🔗 View Project:
-https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/Africa_Life_Expectancy_Visualization.ipynb
+✔ 55-year visual transformation across African regions
 
----
 
-### 🔹 FinTech Transactions Analysis & Interactive Dashboard (2022–2024)
+⸻
 
-**Tools:** Python, Pandas, Matplotlib, Seaborn, Plotly  
-**Dataset:** African FinTech transactions(success vs failure, channel adoption, monthly trends)
+✅ 5️⃣ FinTech Transactions Analysis & Dashboard (2022–2024)
 
-**Key Insights:**
-- Nigeria &  South Africa drive the majority of revenue and transaction volume
-- 📱 USSD remains the top-performing transaction channel across countries
-- ✅ Success rate is high — only ~8% failed transactions overall
-- 📈 Monthly revenue trends show consistent growth and digital payment adoption
-- 📊 Interactive dashboards improve stakeholder understanding and decision-making
 
-🔗 Open the Notebook  
-https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/FinTech%20Transactions%20Analysis%20%26%20Interactive%20Dashboard(2022%20-%202024).ipynb
+🔗 https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/FinTech_Transactions_Analysis_2022_2024.ipynb
+
+✔ Monthly revenue & performance trends
+
+✔ Success vs failed analysis
+
+✔ Best performing channel (USSD)
+
+✔ Country-level revenue insights
+
+
 
 ### 
+
 
 ---
 
