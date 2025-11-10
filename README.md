@@ -82,6 +82,53 @@ Currently building real-world portfolio projects using Python, Pandas, Seaborn, 
 
 ✔ Country-level revenue insights
 
+______
+
+✅  FinTech SQL Insights: Customer, Performance & Revenue Analysis
+
+
+📌 Tools: SQLite, DB Browser, SQL
+
+📊 Skills: Joins, grouping, aggregation, performance analytics
+
+
+✅ Key Insights Delivered:
+
+	•	Total transactions: 1,400+
+  
+	•	Success vs Failed transactions analyzed
+  
+	•	Nigeria as top-performing market
+  
+	•	Revenue patterns & customer activity ranking
+  
+	•	Fraud/failed pattern detection using status analysis
+  
+
+🧩 What I Did
+
+	•	Imported fintech CSV data into SQL database
+  
+	•	Cleaned & structured dataset using DDL + DML
+  
+	•	Wrote queries to uncover key financial and business insights
+  
+📈 Example Queries Used
+
+SELECT Country, COUNT(*) AS total_transactions
+
+FROM transactions
+
+GROUP BY Country
+
+ORDER BY total_transactions DESC;
+
+
+🔗 View Project:
+https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/FinTech%20Transaction%20SQL%20Insights.ipynb
+
+
+
 
 
 ### 
