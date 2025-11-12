@@ -127,6 +127,22 @@ ORDER BY total_transactions DESC;
 🔗 View Project:
 https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/FinTech%20Transaction%20SQL%20Insights.ipynb
 
+_______
+
+### 🧾 Business Performance Dashboard (Excel)
+
+
+📅 *Date:* November 2025  
+
+🧰 *Tools:* Microsoft Excel  
+
+📊 *Description:*  
+
+Developed a Business Performance Dashboard in Excel to visualize revenue, tax, and profit split using pie and clustered column charts. The dashboard highlights key performance insights and demonstrates practical Excel data analysis skills.  
+
+
+🔗 [View Project File](Business_Performance_Dashboard.xlsx)
+
 
 
 
