@@ -1,174 +1,178 @@
-# 👋 Hi, I’m Damilola Aderemilekun Adegboye
+# 📊 Data Analysis Portfolio — Damilola Aderemilekun Adegboye
 
-Data Analyst | Mathematics Graduate | Insight-Driven Problem Solver
 
-I transform raw data into clear, actionable insights using analytical thinking and clean visual storytelling.
-Currently building real-world portfolio projects using Python, Pandas, Seaborn, Matplotlib & Plotly while preparing for my first Data Analyst role in a growth-focused organization
+Welcome to my **Data Analytics Portfolio** — a curated collection of my analytical projects using **Python, SQL, Excel, and data visualization tools**.  
+
+Each project demonstrates my ability to clean, analyze, and visualize data for meaningful business insights.  
+
 
 ---
 
-### 🔍 Tech & Tools I Use
-- Python (Pandas, Matplotlib, Seaborn, Plotly Express)
-- Jupyter Notebook
-- Data cleaning, analysis & visualization
-- (SQL & Power BI coming soon 🔜)
+## 👨🏽‍💻 About Me  
+
+**Name:** Damilola Aderemilekun Adegboye  
+
+**Location:** Abuja, Nigeria  
+
+**Field:** Data Analytics | Business Intelligence | FinTech Analytics  
+
+**Email:** Dharmmyadegboye@outlook.com  
+
+**LinkedIn:** [linkedin.com/in/damilola-adegboye-957567390](https://linkedin.com/in/damilola-adegboye-957567390)  
+
+**GitHub:** [github.com/JustDamad](https://github.com/JustDamad)
+
 
 ---
 
-### 📊 My Data Analytics Projects
+## 🧩 Projects
 
 
-📊 Data Analytics Portfolio — 5 Projects
+### 1️⃣ Product Data Exploration
+
+📅 **Date:** October 2025  
+🧰 **Tools:** Python (Pandas, NumPy)  
+📊 **Description:**  
+Explored product data using Python to identify trends, top-selling items, and total profit per product.  
+Demonstrated data cleaning, grouping, and exploratory analysis.  
 
 
-✅ 1️⃣ Product Data Exploration
+🔗 [View Notebook](https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/Data-Analytics-Portfolio.ipynb)
 
 
-🔗 https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/Data-Analytics-Portfolio.ipynb
+---
 
-✔ Data cleaning & exploration using Pandas
+### 2️⃣ Product Profit Visualization  
 
-✔ Revenue, product counts, missing data insights
-
-
-⸻
-
-✅ 2️⃣ Product Profit Visualization
-
-
-🔗 https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/PRODUCT%20PROFIT%20VISUALIZATION.ipynb
-
-✔ Highest vs lowest profit by country
-
-✔ Bar charts using Matplotlib
+📅 **Date:** October 2025  
+🧰 **Tools:** Python (Matplotlib, Seaborn)  
+📊 **Description:**  
+Visualized highest and lowest profit by product and country using professional bar charts and storytelling visuals.  
+Showcases business insights with clean data presentation.  
 
 
-⸻
-
-✅ 3️⃣ Global Life Expectancy Analysis — Gapminder
+🔗 [View Notebook](https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/PRODUCT%20PROFIT%20VISUALIZATION.ipynb)
 
 
-🔗 https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/GAPMINDER%20LIFE%20EXPECTANCY%20DATA.ipynb
+---
 
-✔ Country comparison: Nigeria, Ghana & India
+### 3️⃣ GAPMINDER Life Expectancy Data Analysis  
 
-✔ Seaborn + Plotly multi-line trend visualization
-
-
-⸻
-
-✅ 4️⃣ Africa Life Expectancy Heatmap (1952–2007)
-
-
-🔗 https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/Africa_Life_Expectancy_Visualization.ipynb
-
-✔ Heatmap showing health progress & inequality trends
-
-✔ 55-year visual transformation across African regions
+📅 **Date:** November 2025  
+🧰 **Tools:** Python (Seaborn, Plotly Express)  
+📊 **Description:**  
+Analyzed the life expectancy dataset using the Gapminder data library.  
+Created line plots, scatter plots, and country comparisons (Nigeria, India, Ghana).  
 
 
-⸻
-
-✅ 5️⃣ FinTech Transactions Analysis & Dashboard (2022–2024)
+🔗 [View Notebook](https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/GAPMINDER%20LIFE%20EXPECTANCY%20DATA.ipynb)
 
 
-🔗 https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/FinTech_Transactions_Analysis_2022_2024.ipynb
+---
 
-✔ Monthly revenue & performance trends
+### 4️⃣ FinTech Transactions Analysis & Interactive Dashboard (2022–2024)  
 
-✔ Success vs failed analysis
-
-✔ Best performing channel (USSD)
-
-✔ Country-level revenue insights
-
-______
-
-✅  FinTech SQL Insights: Customer, Performance & Revenue Analysis
+📅 **Date:** November 2025  
+🧰 **Tools:** Python (Pandas, Matplotlib, Seaborn, Plotly)  
+📊 **Description:**  
+Analyzed FinTech transactions from 2022–2024 to uncover revenue trends, customer insights, and performance metrics.  
+Included interactive visualizations and dashboards using Plotly.  
 
 
-📌 Tools: SQLite, DB Browser, SQL
-
-📊 Skills: Joins, grouping, aggregation, performance analytics
+🔗 [View Notebook](https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/FinTech_Transactions_Analysis_2022_2024.ipynb)
 
 
-✅ Key Insights Delivered:
+---
 
-	•	Total transactions: 1,400+
-  
-	•	Success vs Failed transactions analyzed
-  
-	•	Nigeria as top-performing market
-  
-	•	Revenue patterns & customer activity ranking
-  
-	•	Fraud/failed pattern detection using status analysis
-  
+### 5️⃣ FinTech Transactions SQL Insights  
 
-🧩 What I Did
-
-	•	Imported fintech CSV data into SQL database
-  
-	•	Cleaned & structured dataset using DDL + DML
-  
-	•	Wrote queries to uncover key financial and business insights
-  
-📈 Example Queries Used
-
-SELECT Country, COUNT(*) AS total_transactions
-
-FROM transactions
-
-GROUP BY Country
-
-ORDER BY total_transactions DESC;
+📅 **Date:** November 2025  
+🧰 **Tools:** SQLite, SQL  
+📊 **Description:**  
+Used SQL queries to extract and summarize FinTech transaction data, including top customers, success vs failure counts, and revenue by country.  
 
 
-🔗 View Project:
-https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/FinTech%20Transaction%20SQL%20Insights.ipynb
-
-_______
-
-### 🧾 Business Performance Dashboard (Excel)
+🔗 [View Notebook](https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/Fintech%20Transaction%20SQL%20Insights.ipynb)
 
 
-📅 *Date:* November 2025  
+---
 
-🧰 *Tools:* Microsoft Excel  
+### 6️⃣ Highest vs Lowest Profit by Country  
 
-📊 *Description:*  
+📅 **Date:** October 2025  
+🧰 **Tools:** Python (Pandas, Matplotlib)  
+📊 **Description:**  
+Visualized the highest and lowest profits for each country in a dataset to identify market strengths and weaknesses.  
+Revealed comparative profit insights across multiple countries.  
 
-Developed a Business Performance Dashboard in Excel to visualize revenue, tax, and profit split using pie and clustered column charts. The dashboard highlights key performance insights and demonstrates practical Excel data analysis skills.  
+
+🔗 [View Notebook](https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/Highest_vs_Lowest_Profit_by_Country.ipynb)
+
+
+---
+
+### 7️⃣ Product Category Revenue & Profit Analysis  
+
+📅 **Date:** October 2025  
+🧰 **Tools:** Python (Pandas, Seaborn, Matplotlib)  
+📊 **Description:**  
+Analyzed revenue and profit per product category.  
+Revealed that the **Binder** category had the highest revenue and profit.  
+
+
+🔗 [View Notebook](https://github.com/JustDamad/Data-Analysis-Portfolio/blob/main/Product_Category_Revenue_%26_Profit_Analysis.ipynb)
+
+
+---
+
+### 8️⃣ Business Performance Dashboard (Excel)
+
+📅 **Date:** November 2025  
+🧰 **Tools:** Microsoft Excel  
+📊 **Description:**  
+Developed a Business Performance Dashboard to visualize **Revenue, Profit Split, and Tax** using pie and clustered column charts.  
+Demonstrates Excel data visualization and reporting skills.  
 
 
 🔗 [View Project File](Business_Performance_Dashboard.xlsx)
 
 
+---
 
+## 🧠 Skills & Tools
 
+- **Data Analysis:** Python (Pandas, NumPy), SQL, Excel  
+- **Visualization:** Matplotlib, Seaborn, Plotly, Excel Charts  
+- **Databases:** SQLite, MySQL  
+- **Business Intelligence:** Data storytelling & insight communication  
+- **Industry Focus:** FinTech, Sales, and Product Analytics
 
-### 
 
 
 ---
 
+### ⭐ Future Focus
 
-🎯 Career Goal
+Continuing to build advanced projects in:
 
-To secure my first Data Analyst role and continue growing in a tech-driven environment  (locally or internationally).
+- Power BI Dashboards  
+- Predictive Analytics with Python  
+- Real-time Financial Data Analysis  
+
+
+---
+
+### 🏁 Contact
+
+📩 **Email:** Dharmmyadegboye@outlook.com  
+
+📍 **Location:** Abuja, Nigeria  
+(open to remote & international opportunities)
+
+🔗 **LinkedIn:** [linkedin.com/in/damilola-adegboye-957567390](https://linkedin.com/in/damilola-adegboye-957567390)
+
 
 ---
 
-### 📬 Contact
-
-📧 dharmmyadegboye@outlook.com
-
-🔗 LinkedIn: www.linkedin.com/in/damilola-adegboye-957567390
-
-🔗 GitHub: https://github.com/JustDamad
-
-📍 Based in Nigeria — open to remote & international opportunities
-
----
 
 ✨ Thank you for checking out my portfolio 
