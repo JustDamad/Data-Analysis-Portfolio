@@ -1,12 +1,28 @@
-# 📊 Data Analysis Portfolio — Damilola Aderemilekun Adegboye
+# Data Analysis Portfolio
 
+Hi, I'm Damilola Aderemilekun Adegboye — a Data Analyst with hands-on experience
+in Python, SQL, Excel, and data visualization. I focus on transforming raw data
+into actionable insights that support business and decision-making.
 
-Welcome to my **Data Analytics Portfolio** — a curated collection of my analytical projects using **Python, SQL, Excel, and data visualization tools**.  
+## Portfolio Structure
+- Python Projects
+- SQL Projects
+- Excel Dashboards
 
-Each project demonstrates my ability to clean, analyze, and visualize data for meaningful business insights.  
+## Featured Project
+- Product Profit Analysis (Python, Pandas, Matplotlib)
+  - Analyzed product-level revenue and profit to identify high-performing
+    categories and support business strategy decisions.
+
+## Open To
+- Data Analyst roles
+- Business Analyst roles
+- Entry-level / Junior opportunities
 
 
 ---
+
+
 
 ## 👨🏽‍💻 About Me  
 
